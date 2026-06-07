@@ -17,7 +17,7 @@ Phát hiện **Hành vi bạo lực thời gian thực** sử dụng mô hình *
 
 ---
 
-## 📈 Kết quả trực quan
+## Kết quả trực quan
 
 | Training Curves | Confusion Matrix |
 |:---:|:---:|
@@ -26,7 +26,7 @@ Phát hiện **Hành vi bạo lực thời gian thực** sử dụng mô hình *
 
 ---
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 Violent Behavior Detection-yolo11n/
@@ -46,7 +46,7 @@ Violent Behavior Detection-yolo11n/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 | | |
 |---|---|
@@ -58,7 +58,7 @@ Violent Behavior Detection-yolo11n/
 
 ---
 
-## 🚀 Kaggle Notebook
+## Kaggle Notebook
 
 Toàn bộ pipeline 9 bước chạy trên Kaggle GPU T4 x2:
 
@@ -74,7 +74,7 @@ Toàn bộ pipeline 9 bước chạy trên Kaggle GPU T4 x2:
 | 8 | Đánh giá tốc độ mô hình |
 | 9 | Inference ảnh & video, export TensorRT |
 
-🔗 [Xem notebook trên Kaggle](https://www.kaggle.com/code/namvipcf2000/h-nh-vi-b-o-l-c) 
+[Xem notebook trên Kaggle](https://www.kaggle.com/code/namvipcf2000/h-nh-vi-b-o-l-c) 
 
 ---
 
@@ -115,7 +115,7 @@ Mở trình duyệt tại `http://localhost:7860` — giao diện hỗ trợ:
 
 ---
 
-## 🛠️ Cài đặt & chạy local
+## Cài đặt & chạy local
 
 ```bash
 # Clone repo
@@ -144,7 +144,7 @@ python scripts/inference_video.py --source video.mp4 --weights weights/best.pt
 
 
 
-## 🗂️ Môi trường huấn luyện
+## Môi trường huấn luyện
 
 | | |
 |---|---|
@@ -156,13 +156,13 @@ python scripts/inference_video.py --source video.mp4 --weights weights/best.pt
 
 ---
 
-## 📄 License
+## License
 
 MIT License — xem [LICENSE](LICENSE)
 
 ---
 
-## 👤 Tác giả
+## Tác giả
 
 **Nguyễn Văn Bắc**
 - GitHub: (https://github.com/Namvipcf)
