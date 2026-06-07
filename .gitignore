@@ -1,0 +1,29 @@
+# Weights lớn — dùng Git LFS cho best.pt
+*.pt
+*.onnx
+*.engine
+*.torchscript
+
+# YOLO output (runs/) — quá nặng
+runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
