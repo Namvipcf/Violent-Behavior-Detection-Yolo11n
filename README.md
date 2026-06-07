@@ -21,7 +21,7 @@ Phát hiện **Hành vi bạo lực thời gian thực** sử dụng mô hình *
 
 | Training Curves | Confusion Matrix |
 |:---:|:---:|
-| ![](results/training_curves.png) | ![](results/confusion_matrix.png) ![](results/BoxPR_curve.png) |
+| ![](results/training_curves.png) | ![](results/confusion_matrix.png) | ![](results/BoxPR_curve.png) |
 
 
 ---
