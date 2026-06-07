@@ -13,7 +13,7 @@ Phát hiện **Hành vi bạo lực thời gian thực** sử dụng mô hình *
 ## Demo
 
 <!-- Video dự đoán hành vi bạo lực -->
-<a href="results/sample_predictions.mp4">▶️ Xem video demo</a>
+<a href="results/sample_predictions.mp4">Xem video demo</a>
 
 ---
 
